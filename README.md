@@ -1,2 +1,2 @@
 # javascript-background-generator
-Basic bg generator on js for npm
+Basic bg generator on js for npm and lodash to try...
