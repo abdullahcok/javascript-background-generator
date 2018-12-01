@@ -30,8 +30,8 @@ before final:
 >> sudo npm install
 
 finally, in package.json file:
-					in script line, "test line" has to be changed to:
-								    "build": "echo \"browserify script.js > bundle.js && live-server"
+in script line, "test line" has to be changed to:
+	"build": "echo \"browserify script.js > bundle.js && live-server"
 **/
 
 var css = document.querySelector("h3");
