@@ -1,0 +1,26 @@
+{
+  "name": "javascript-background-generator",
+  "version": "1.1.0",
+  "description": "new things about bg",
+  "main": "script.js",
+  "scripts": {
+    "build": "echo \"browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahcok/javascript-background-generator.git"
+  },
+  "keywords": [
+    "bg",
+    "background"
+  ],
+  "author": "abdullahcok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahcok/javascript-background-generator/issues"
+  },
+  "homepage": "https://github.com/abdullahcok/javascript-background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
